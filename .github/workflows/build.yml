@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+      - dingding
   pull_request:
 
 jobs:
